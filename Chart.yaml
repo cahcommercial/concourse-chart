@@ -11,8 +11,7 @@ keywords:
   - concourse.ci
 home: https://concourse-ci.org/
 sources:
-  - https://github.com/concourse/concourse-chart
-  - https://github.com/concourse/concourse
+  - https://github.com/cahcommercial/concourse-chart
 dependencies:
   - name: postgresql
     version: 11.9.8
